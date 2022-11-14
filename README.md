@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @i-am-yogesh
+- 👋 Hi, I’m Yogesh
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on big tech companies
+- 🌱 I’m currently learning DSA in CPP
+- 💞️ I’m looking forward to be valuable resource in tech world
 - 📫 How to reach me iamyogesh.ind@gmail.com
-
