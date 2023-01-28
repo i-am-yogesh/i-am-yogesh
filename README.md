@@ -2,4 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning DSA in CPP
 - 💞️ I’m looking forward to be valuable resource in tech world
-- 📫 How to reach me iamyogesh.ind@gmail.com
+- ✌️ Also intersted in Game Developed
+- 😎 Although I love C++ but also have good knowledge about JAVA, C#, C
+- 🙈 I'm not big fan of web development but developed few websites using HTML, CSS, JS, Bootstraps, FontAwesome etc .
+- 📫 Reach me at iamyogesh.ind@gmail.com
